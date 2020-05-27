@@ -1,0 +1,959 @@
+/*===========================================================================*/
+							/*1366px CSS*/
+/*===========================================================================*/
+@media (max-width: 1366px) {
+#banner .caption {
+	top: 150px;
+}
+#banner .caption span img {
+	margin-bottom: 0;
+}
+#nav li ul li > ul {
+	left: inherit;
+	right: 100%;
+}
+.top-menu .dropdown-menu {
+	left: -300px;
+}
+.top-menu .dropdown-menu::before {
+	left: 335px;
+}
+}
+
+
+
+/*===========================================================================*/
+							/*1280px CSS*/
+/*===========================================================================*/
+@media (max-width: 1280px) {
+#banner .caption {
+	top: 150px;
+}
+#banner .caption span img {
+	margin-bottom:0;
+}
+#nav li ul li > ul {
+	left: inherit;
+	right: 100%;
+}
+.top-menu .dropdown-menu {
+	left: -300px;
+}
+.top-menu .dropdown-menu::before {
+	left: 335px;
+}
+}
+
+
+/*===========================================================================*/
+							/*1600px CSS*/
+/*===========================================================================*/
+@media (max-width: 1600px) {
+#banner .caption {
+	top: 150px;
+}
+}
+
+/*===========================================================================*/
+							/*1440px CSS*/
+/*===========================================================================*/
+@media (max-width: 1440px) {
+#banner .caption {
+	top: 150px;
+}
+#banner .caption span img{
+	margin:0 auto 0px;
+}
+}
+
+
+
+/*===========================================================================*/
+							/*767px CSS*/
+/*===========================================================================*/
+@media (max-width: 767px) {
+.post-meta ul {
+	margin: 0;
+}
+.tags, .cp-categories {
+	margin: 0 0 10px 0;
+}
+.related-images .frame {
+	width: 30.8%;
+	margin-right: 15px;
+}
+.cp-comments li .thumb {
+	margin: 20px 20px 20px 0;
+}
+.cp-comments li .text {
+	float: left;
+	width: 100%;
+	margin: 0;
+}
+.post-time ul li a.comment-reply-link {
+	margin: 3px 0 0 0;
+}
+.children {
+	padding: 0;
+}
+.cp-comments li .children li {
+	padding: 0;
+}
+.comment-reply-title small a {
+	margin: 0 0 10px 30px;
+}
+.comingsoon .holder {
+	width: 100%;
+}
+.comingsoon h1 {
+	font-size: 60px !important;
+}
+.comingsoon p {
+	margin: 0 0 30px 0;
+}
+.comingsoon .countdown-box .countdown_section {
+	width: 130px;
+}
+.comingsoon .countdown-box .countdown_amount {
+	font-size: 60px;
+}
+.comingsoon .countdown-box .countdown_section:before {
+	left: 140px;
+}
+.comingsoon .countdown-box {
+	margin: 0 0 40px 0;
+}
+.map-row .map_canvas {
+	height: 300px;
+}
+.contact-row {
+	padding: 0;
+}
+.contact-box {
+	margin-bottom: 30px;
+}
+#give-donation-level-radio-list li {
+	float: left;
+	margin: 0 0 20px 14px;
+}
+#give-donation-level-radio-list li:first-child {
+	margin: 0;
+}
+#give-donation-level-radio-list label {
+	width: 90px;
+	height: 90px;
+	font-size: 22px;
+	line-height: 90px;
+}
+#give-first-name-wrap, #give-last-name-wrap {
+	width: 100%;
+	margin: 0;
+}
+#give-email-wrap {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.donation-amounts li, .error-section .holder {
+	width: 100%;
+}
+#header {
+	background: #222;
+}
+.top-menu .dropdown-menu {
+	width: 100%;
+}
+.top-menu .dropdown-menu li strong.title, .top-menu .dropdown-menu li span, .top-menu .dropdown-menu li b {
+	font-size: 15px;
+	line-height: 18px;
+}
+#banner .caption {
+	top: 10px;
+}
+.top-menu .dropdown-menu li .head, .top-menu .dropdown-menu li a {
+	padding: 10px;
+}
+.top-menu .dropdown-menu li .head span.azan, .top-menu .dropdown-menu li .head span.time, .top-menu .dropdown-menu li a em, .top-menu .dropdown-menu li a strong.time {
+	font-size: 12px;
+	line-height: 12px;
+}
+#banner .caption span img {
+	width: 100%;
+	margin-bottom: 0;
+}
+#banner .caption strong.title {
+	padding: 0 0 5px 0;
+	margin: -5px 0 0 0;
+}
+#banner .caption h1 {
+	font-size: 17px;
+	margin: 0 0 10px 0;
+}
+#banner .caption p {
+	margin: 0 0 10px 0;
+}
+#banner .caption strong.title:before, #banner .caption strong.title:after {
+	display: none;
+}
+.vision-box {
+	margin-bottom: 30px;
+}
+.search-inner {
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#nav {
+	width: 100%;
+	padding: 20px 0 0 0;
+}
+#nav li {
+	float: none;
+	display: block;
+	padding-bottom: 20px;
+}
+#nav li a {
+	padding: 0 0 8px 0;
+}
+#nav li ul, #nav li ul li > ul {
+	position: static;
+	width: 100%;
+}
+#banner {
+	margin: 0;
+}
+.parallax-section .right-box {
+	width: 100%;
+}
+.parallax-section .right-box img {
+	width: 100%;
+}
+.event-box {
+	margin-bottom: 40px;
+}
+.event-box img {
+	width: 100%;
+}
+.event-section {
+	padding-bottom: 0;
+}
+.pillar-box {
+	margin-bottom: 90px;
+}
+.pillars-islam-section {
+	margin: 0;
+	padding-bottom: 0;
+}
+.progress-box .progress {
+	width: 100%;
+}
+.donation-section {
+	background-size: cover;
+}
+.donation-section {
+	margin-bottom: 30px;
+}
+.timing-box {
+	margin-bottom: 170px;
+}
+.prayer-timings {
+	padding-bottom: 0;
+}
+.footer-section-1 {
+	padding: 40px 0;
+}
+.footer-box {
+	margin: 30px 0 0 0;
+}
+#inner-banner {
+	margin-top: 0;
+	padding: 20px 0;
+}
+#inner-banner h1 {
+	margin-top: 0;
+}
+.about-gallery .modal-dialog {
+	width: 100%;
+	padding: 0 30px;
+	margin: 0;
+}
+}
+
+
+/*===========================================================================*/
+							/*480px CSS*/
+/*===========================================================================*/
+@media (min-width: 320px) and (max-width: 480px) {
+.post-meta ul {
+	margin: 0;
+}
+input[type="text"], input[type="name"], input[type="email"], input[type="tel"], input[type="phone"], input[type="date"], input[type="image"], input[type="search"], input[type="password"] {
+	font-size: 12px;
+}
+#bx-pager a:first-child, #bx-pager a {
+	margin: 0 5px;
+	width: 86px;
+	float: none;
+	display: inline-block;
+}
+#bx-pager {
+	margin-bottom: 20px;
+}
+.reviews-tab-col .text-col {
+	float: left;
+	width: 100%;
+}
+.reviews-tab-col .thumb {
+	float: left;
+	margin: 0 0 20px 0;
+}
+#inner-banner h1 {
+	font-size: 24px;
+}
+#inner-banner {
+	margin-top: 0;
+	padding: 20px 0;
+}
+#inner-banner h1 {
+	margin-top: 0;
+}
+.about-gallery .modal-dialog {
+	width: 100%;
+	padding: 0 30px;
+	margin: 0;
+}
+#header {
+	background: #222;
+}
+a.logo {
+	width: 100%;
+	text-align: center;
+	margin: 0 0 20px 0;
+}
+.header-right-topbar {
+	width: 100%;
+	text-align: center;
+}
+.header-right-topbar {
+	margin: 0 0 10px 0;
+}
+.search-holder {
+	float: none;
+	margin: 0 10px 0 0;
+	display: inline-block;
+}
+.search-inner {
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.top-menu {
+	float: none;
+	margin: 0;
+	display: inline-block;
+}
+.top-menu li a {
+	font-size: 14px;
+	line-height: 14px;
+}
+.top-menu li + li::before {
+	padding: 0 10px;
+}
+.search-holder button {
+	font-size: 18px;
+}
+.top-menu .dropdown-menu {
+	width: 100%;
+}
+#nav {
+	padding: 15px 0 0 0;
+}
+#nav li {
+	float: none;
+	display: block;
+	padding-bottom: 20px;
+}
+#nav li ul, #nav li ul li > ul {
+	position: static;
+	width: 100%;
+}
+#nav {
+	float: left;
+	width: 100%;
+}
+#nav li a {
+	padding: 0 0 8px 0;
+}
+.top-menu .dropdown-menu li strong.title, .top-menu .dropdown-menu li span, .top-menu .dropdown-menu li b, .top-menu .dropdown-menu li .head span.azan, .top-menu .dropdown-menu li .head span.time {
+	font-size: 15px;
+	line-height: 18px;
+}
+.top-menu .dropdown-menu li a em, .top-menu .dropdown-menu li a strong.time {
+	font-size: 12px;
+	line-height: 12px;
+}
+.top-menu .dropdown-menu li .head, .top-menu .dropdown-menu li a {
+	padding: 10px;
+}
+#banner {
+	margin: 0;
+}
+#banner .caption {
+	top: 8px;
+}
+#banner .caption span img, .event-box img {
+	width: 100%;
+}
+#banner .caption span img {
+	margin-bottom: 0;
+}
+#banner .caption strong.title:before, #banner .caption strong.title:after, #banner .caption p, .caption .btn-row, #banner .owl-next, #banner .owl-prev, .history-section .frame::before, .event-box .caption {
+	display: none !important;
+}
+.pillar-box {
+	width: 100%;
+	margin-bottom: 90px;
+}
+.pillars-islam-section {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.history-section, .our-vision, .event-section, .gallery-style-1 {
+	padding: 40px 0;
+}
+.text-holder, .parallax-section .right-box, .progress-box .progress {
+	width: 100%;
+}
+.parallax-section .right-box img {
+	width: 100%;
+}
+.vision-box, .event-box {
+	margin-bottom: 30px;
+}
+.donation-section {
+	padding: 50px 0;
+	background-size: cover;
+	margin-bottom: 40px;
+}
+.post-meta ul li {
+	margin: 0 15px 10px 0;
+}
+.post-box {
+	margin-bottom: 40px;
+}
+.timing-box {
+	margin-bottom: 170px;
+}
+.prayer-timings {
+	padding-bottom: 0;
+}
+.latest-news-widget {
+	margin-bottom: 40px;
+}
+.footer-section-1 {
+	padding: 50px 0;
+}
+.footer-section-2 strong.copyright {
+	font-size: 12px;
+	text-align: center;
+	width: 100%;
+}
+.footer-social {
+	float: left;
+	width: 100%;
+}
+.footer-social ul {
+	width: 100%;
+	text-align: center;
+}
+.footer-social ul li {
+	float: none;
+	display: inline-block;
+}
+.history-section .text-box {
+	margin: 30px 0 0 0;
+}
+#banner .caption strong.title {
+	padding-bottom: 7px;
+}
+#banner .caption h1 {
+	font-size: 18px;
+}
+.history-section .frame {
+	padding: 0;
+}
+.history-section .frame img {
+	width: 100%;
+}
+.sticky:before {
+	padding: 10px 18px;
+	font-size: 18px;
+	line-height: 18px;
+}
+.related-images .frame {
+	width: 100%;
+}
+body table td, body table th {
+	padding: 10px 18px;
+}
+body h2 {
+	font-size: 19px !important;
+}
+body p {
+	margin: 0 0 20px 0;
+}
+.tags, .cp-categories {
+	margin: 0 0 15px 0;
+}
+.tags strong, .cp-categories strong {
+	float: none;
+	display: block;
+	padding: 0 10px 10px 0;
+}
+iframe, embed {
+	height: 250px !important;
+}
+.post-box a.link-post {
+	font-size: 20px;
+}
+body blockquote {
+	font-size: 18px;
+	line-height: 26px;
+	padding: 20px 30px;
+}
+.share-post ul li {
+	margin-bottom: 10px;
+}
+.cp-comments li .thumb {
+	margin: 20px 20px 20px 0;
+}
+.cp-comments li .text {
+	float: left;
+	width: 100%;
+	margin: 0;
+}
+.post-time ul li a.comment-reply-link {
+	margin: 3px 0 0 0;
+}
+.children {
+	padding: 0;
+}
+.cp-comments li .children li {
+	padding: 0;
+}
+.comment-reply-title small a {
+	margin: 9px 0 5px 0;
+}
+.comingsoon .holder {
+	width: 100%;
+}
+strong.coming-logo img {
+	display: block;
+	width: 100%;
+}
+.comingsoon h1 {
+	font-size: 41px !important;
+	line-height: 46px !important;
+}
+.comingsoon p {
+	margin: 0 0 40px 0;
+}
+.comingsoon strong.title {
+	font-size: 25px;
+}
+.comingsoon .countdown-box .countdown_section:before {
+	display: none;
+}
+.comingsoon .countdown-box .countdown_amount {
+	font-size: 30px;
+	line-height: 30px;
+}
+.comingsoon .countdown-box .countdown_section {
+	width: 100px;
+	margin-bottom: 20px;
+}
+.comingsoon .countdown-box {
+	margin-bottom: 20px;
+}
+.subscribe-box strong.subscribe {
+	font-size: 20px;
+	padding: 0 0 6px 0;
+}
+.subscribe-box form {
+	width: 100%;
+}
+.subscribe-box form input[type="submit"] {
+	font-size: 14px;
+	padding: 14px 8px;
+}
+.map-row .map_canvas {
+	height: 250px;
+}
+.contact-row {
+	padding: 0;
+}
+.contact-box {
+	margin-bottom: 30px;
+}
+#give-form-370 .give-donation-amount {
+	width: 100%;
+	text-align: center;
+}
+#give-form-370-wrap h2, #give-form-370 label.give-hidden {
+	text-align: center;
+}
+#give-donation-level-radio-list li {
+	margin: 0 20px 20px 20px;
+}
+#give-donation-level-radio-list {
+	margin-bottom: 0;
+}
+#give_purchase_form_wrap {
+	padding: 20px;
+}
+#give-first-name-wrap, #give-last-name-wrap {
+	width: 100%;
+	margin: 0;
+}
+#give-email-wrap {
+	width: 100%;
+}
+#give_purchase_form_wrap input[type="submit"], #give_purchase_form_wrap button[type="submit"] {
+	width: 100%;
+}
+.donation-amounts li {
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+.donation-amounts li input[type="text"] {
+	width: 85%;
+	float: none;
+	display: inline-block;
+}
+.custom-donation-amount-wrapper {
+	float: left;
+	text-align: center;
+	width: 100%;
+	padding-bottom: 20px;
+}
+#charitable_field_first_name, #charitable_field_email, #charitable_field_address_2, #charitable_field_state, #charitable_field_country, #charitable_field_last_name, #charitable_field_address, #charitable_field_city, #charitable_field_postcode, #charitable_field_phone, .donation-summary dd, .donation-summary dt, .error-section .holder {
+	width: 100%;
+}
+.error-section .holder strong.error-text {
+	font-size: 135px;
+	line-height: 140px;
+	padding: 0 0 20px 0;
+}
+.search-not-found .holder {
+	width: 100%;
+}
+.search-not-found .holder strong.error-text {
+	font-size: 56px;
+	line-height: 55px;
+}
+.testimonial-box {
+	padding: 20px 30px;
+}
+.testimonial-box em {
+	font-size: 20px;
+	line-height: 32px;
+}
+.cf-box .btm-row strong.number {
+	margin: 0;
+	padding: 0 10px 5px 10px;
+}
+}
+
+
+
+/*===========================================================================*/
+						/*768px And 992px CSS*/
+/*===========================================================================*/
+@media (min-width: 768px) and (max-width: 992px) {
+body p {
+	margin: 0 0 20px 0;
+}
+#bx-pager a:first-child, #bx-pager a {
+	margin: 0 5px;
+	width: 86px;
+	float: none;
+	display: inline-block;
+}
+.product-detail ul {
+	margin: 0;
+	padding: 0;
+}
+#bx-pager {
+	margin: 0 0 20px 0;
+}
+#inner-banner {
+	padding: 20px 0;
+}
+.instagram-widget ul li {
+	width: 100px;
+	height: 100px;
+}
+#inner-banner h1 {
+	margin-top: 0;
+}
+.about-gallery .modal-dialog {
+	width: 100%;
+	padding: 0 30px;
+	margin: 0;
+}
+.team-box .text-box h2 {
+	font-size: 22px;
+}
+#header {
+	background: #222;
+}
+.top-menu .dropdown-menu {
+	width: 100%;
+}
+.top-menu .dropdown-menu li strong.title, .top-menu .dropdown-menu li span, .top-menu .dropdown-menu li b {
+	font-size: 15px;
+	line-height: 18px;
+}
+.top-menu .dropdown-menu li .head, .top-menu .dropdown-menu li a {
+	padding: 10px;
+}
+.top-menu .dropdown-menu li .head span.azan, .top-menu .dropdown-menu li .head span.time, .top-menu .dropdown-menu li a em, .top-menu .dropdown-menu li a strong.time {
+	font-size: 12px;
+	line-height: 12px;
+}
+.navigation-row {
+	margin: 30px 0 0 0;
+}
+#nav li a {
+	font-size: 12px;
+	line-height: 12px;
+	padding: 11px 12px;
+}
+#nav li ul {
+	left: inherit;
+	right: 0;
+}
+#nav li ul li > ul {
+	left: inherit;
+	right: 100%;
+}
+#banner {
+	margin: 0;
+}
+#banner .caption {
+	top: 20px;
+}
+#banner .caption span img {
+	margin-bottom: 0;
+}
+.history-section .frame {
+	padding: 0;
+}
+.history-section .frame img {
+	width: 100%;
+}
+.history-section .frame::before {
+	display: none;
+}
+.parallax-section .right-box {
+	width: 100%;
+}
+.event-box .caption {
+	display: none;
+}
+.pillar-box {
+	width: 177px;
+	margin-bottom: 85px;
+}
+.pillars-islam-section {
+	margin: 0;
+	padding-bottom: 0;
+}
+#banner .caption strong.title::before, #banner .caption strong.title:after {
+	display: none;
+}
+#banner .caption strong.title {
+	padding-bottom: 10px;
+}
+#banner .caption h1 {
+	font-size: 22px;
+	margin-bottom: 10px;
+}
+.post-box .text-box h3 {
+	font-size: 19px;
+}
+.post-meta ul li {
+	margin: 0 10px 10px 0;
+}
+.post-meta ul li a {
+	font-size: 12px;
+}
+#banner .caption p {
+	margin-bottom: 10px;
+}
+.tags strong, .cp-categories strong {
+	float: none;
+	display: block;
+	padding: 0 0 10px 0;
+}
+.timing-box {
+	margin: 0 0 180px 0;
+}
+.prayer-timings {
+	padding-bottom: 0;
+}
+.latest-news-widget ul li .text-col h5 {
+	font-size: 12px;
+}
+input[type="text"], input[type="name"], input[type="email"], input[type="tel"], input[type="phone"], input[type="date"], input[type="image"], input[type="search"], input[type="password"] {
+	font-size: 12px;
+}
+input[type="submit"], button[type="submit"] {
+	padding: 13px 15px;
+}
+.footer-section-1 {
+	padding: 40px 0;
+}
+iframe, embed {
+	height: 300px !important;
+}
+.post-box a.link-post {
+	font-size: 22px;
+}
+body blockquote {
+	padding: 20px 30px;
+}
+.cp-comments li .thumb {
+	margin: 20px 20px 20px 0;
+}
+.cp-comments li .text {
+	float: left;
+	width: 100%;
+	margin: 0;
+}
+.post-time ul li a.comment-reply-link {
+	margin: 3px 0 0 0;
+}
+.children {
+	padding: 0;
+}
+.cp-comments li .children li {
+	padding: 0;
+}
+.comment-reply-title small a {
+	margin: 0 0 10px 30px;
+}
+.comingsoon .holder {
+	width: 100%;
+}
+.contact-row {
+	padding: 0;
+}
+#give-donation-level-radio-list li {
+	margin: 0 9px;
+}
+#give-first-name-wrap, #give-last-name-wrap, #give-email-wrap {
+	width: 30.3%;
+}
+.donation-amounts li {
+	width: 46.6%;
+}
+.testimonial-box {
+	padding: 20px 30px;
+}
+}
+
+
+
+
+/*===========================================================================*/
+							/*1199px CSS*/
+/*===========================================================================*/
+@media (min-width: 993px) and (max-width: 1199px) {
+.contact-row {
+	padding: 0;
+}
+#give-donation-level-radio-list li {
+	margin: 0 28px;
+}
+#give-first-name-wrap, #give-last-name-wrap, #give-email-wrap {
+	width: 31%;
+}
+.donation-amounts li {
+	width: 47.5%;
+}
+.product-box h5 {
+	font-size: 16px;
+}
+.top-menu .dropdown-menu {
+	left: -300px;
+}
+.top-menu .dropdown-menu::before {
+	left: 335px;
+}
+a.logo {
+	margin-bottom: 30px;
+}
+#header {
+	background: #222;
+}
+#nav li ul {
+	left: inherit;
+	right: 0;
+}
+#nav li ul li > ul {
+	left: inherit;
+	right: 100%;
+}
+#banner {
+	margin: 0;
+}
+#banner .caption {
+	top: 30px;
+}
+#banner .caption span img {
+	margin-bottom: 30px;
+}
+#banner .caption h1 {
+	font-size: 30px;
+}
+#banner .caption p {
+	margin: 0 0 25px 0;
+}
+.history-section .frame {
+	padding: 0;
+}
+.event-box .caption {
+	top: 70px;
+}
+.pillar-box {
+	width: 182px;
+}
+.pillars-islam-section {
+	margin: 0;
+}
+#inner-banner {
+	margin-top: 0;
+	padding: 20px 0;
+}
+#inner-banner h1 {
+	margin-top: 0;
+}
+.about-gallery .modal-dialog {
+	width: 100%;
+	padding: 0 30px;
+	margin: 0;
+}
+.about-gallery .frame .caption h3 {
+	font-size: 18px;
+}
+.instagram-widget ul li {
+	width: 100px;
+	height: 100px;
+}
+#bx-pager a:first-child, #bx-pager a {
+	margin: 0 5px;
+	width: 86px;
+	float: none;
+	display: inline-block;
+}
+}
