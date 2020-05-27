@@ -1,41 +1,40 @@
 <!--Header-->
 <header id="header">
-    <div class="container">
-        <a href="/" class="logo"><img src="images/logo.png" alt="logo"></a>
+    <div class="container"> <a href="/" class="logo"><img src="images/logo.png" alt="logo"></a>
         <div class="header-right">
             <div class="header-right-topbar">
                 <div class="search-holder">
                     <button id="trigger-overlay" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
                 </div>
                 <ul class="top-menu">
-                    <li><a href="donation.html">donate</a></li>
+                    <li><a href="donation.html">تبرع</a></li>
                     <li><a href="#" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true"
-                            aria-expanded="true">azan</a>
+                            aria-expanded="true">أذان</a>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                            <li><strong class="title">25th jumada Al-Akhirah.</strong></li>
+                            <li><strong class="title">25 جمعة الاخره.</strong></li>
                             <li><span>1438 h</span></li>
-                            <li><b>March 25,2017</b></li>
+                            <li><b>مارش 25،2017</b></li>
                             <li>
-                                <div class="head"> <span class="azan">Pray</span> <span class="time">Time</span>
+                                <div class="head"> <span class="azan">صلى</span> <span class="time">زمن</span>
                                 </div>
                             </li>
-                            <li><a href="#"><em class="azan">Fajr</em><strong class="time">06:04 AM</strong></a>
-                            </li>
-                            <li><a href="#"><em class="azan">Sunrise</em><strong class="time">07:34
-                                        AM</strong></a></li>
-                            <li><a href="#"><em class="azan">Dhuhr</em><strong class="time">01:45
-                                        pm</strong></a></li>
-                            <li><a href="#"><em class="azan">Asr</em><strong class="time">05:14 pm</strong></a>
-                            </li>
-                            <li><a href="#"><em class="azan">Maghrib</em><strong class="time">07:55
-                                        pm</strong></a></li>
-                            <li><a href="#"><em class="azan">Isha</em><strong class="time">09:20 pm</strong></a>
-                            </li>
-                            <li><a href="#"><em class="azan">juma tul mubarak</em><strong class="time">01:30
-                                        pm</strong></a></li>
+                            <li><a href="#"><em class="azan">الفجر</em><strong class="time">06:04
+                                        صباحا</strong></a></li>
+                            <li><a href="#"><em class="azan">شروق الشمس</em><strong class="time">07:34
+                                        صباحا</strong></a></li>
+                            <li><a href="#"><em class="azan">الظهر</em><strong class="time">01:45
+                                        صباحا</strong></a></li>
+                            <li><a href="#"><em class="azan">العصر</em><strong class="time">05:14
+                                        مساء</strong></a></li>
+                            <li><a href="#"><em class="azan">المغرب</em><strong class="time">07:55
+                                        مساء</strong></a></li>
+                            <li><a href="#"><em class="azan">العشاء</em><strong class="time">09:20
+                                        مساء</strong></a></li>
+                            <li><a href="#"><em class="azan">جمعة تول مبارك</em><strong class="time">01:30
+                                        مساء</strong></a></li>
                         </ul>
                     </li>
-                    <li><a href="#">iqamah</a></li>
+                    <li><a href="#">الإقامة</a></li>
                 </ul>
             </div>
             <div class="navigation-row">
@@ -48,52 +47,48 @@
                     </div>
                     <div id="navbar" class="collapse navbar-collapse">
                         <ul class="nav navbar-nav" id="nav">
-                            <li class="active"><a href="/">Home<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <li class="active"><a href="/">الصفحة الرئيسية</a></li>
+                            <li><a href="about.html">حول</a></li>
+                            <li><a href="#">تمويل الجماعي<i class="fa fa-caret-down" aria-hidden="true"></i></a>
                                 <ul>
-                                    <li><a href="index_rtl.html">Home With RTL</a></li>
+                                    <li><a href="crowd-funding.html">تمويل الجماعي</a></li>
+                                    <li><a href="crowd-funding-detail.html">تمويل الجماعي التفاصيل</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="#">crowdfunding<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <li><a href="#">أحداث<i class="fa fa-caret-down" aria-hidden="true"></i></a>
                                 <ul>
-                                    <li><a href="crowd-funding.html">crowdfunding</a></li>
-                                    <li><a href="crowd-funding-detail.html">crowdfunding Detail</a></li>
+                                    <li><a href="events.html">أحداث</a></li>
+                                    <li><a href="event-detail.html">تفاصيل الحدث</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Events<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <li><a href="#"> متجر<i class="fa fa-caret-down" aria-hidden="true"></i></a>
                                 <ul>
-                                    <li><a href="events.html">events</a></li>
-                                    <li><a href="event-detail.html">Event Detail</a></li>
+                                    <li><a href="product.html">متجر</a></li>
+                                    <li><a href="product-detail.html">متجر التفاصيل</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#"> shop<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <li><a href="scholars.html">العلماء</a></li>
+                            <li><a href="#">مدونة<i class="fa fa-caret-down" aria-hidden="true"></i></a>
                                 <ul>
-                                    <li><a href="product.html">Shop</a></li>
-                                    <li><a href="product-detail.html">Shop Detail</a></li>
+                                    <li><a href="blog.html">مدونة</a></li>
+                                    <li><a href="blog-detail.html">تفاصيل المدونة</a></li>
                                 </ul>
                             </li>
-                            <li><a href="scholars.html">Scholars</a></li>
-                            <li><a href="#">blog<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <li><a href="#">صفحات<i class="fa fa-caret-down" aria-hidden="true"></i></a>
                                 <ul>
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-detail.html">Blog Detail</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Pages<i class="fa fa-caret-down" aria-hidden="true"></i></a>
-                                <ul>
-                                    <li><a href="donation.html">Donation</a></li>
-                                    <li><a href="#">Gallery</a>
+                                    <li><a href="donation.html">هبة</a></li>
+                                    <li><a href="#">صالة عرض</a>
                                         <ul>
-                                            <li><a href="gallery-medium.html">Gallery Medium</a></li>
-                                            <li><a href="gallery-small.html">Gallery Small</a></li>
+                                            <li><a href="gallery-medium.html">المعرض متوسط</a></li>
+                                            <li><a href="gallery-small.html">معرض صغير</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="comingsoon.html">Comingsoon</a></li>
+                                    <li><a href="comingsoon.html">قريبا</a></li>
                                     <li><a href="error-page.html">404</a></li>
-                                    <li><a href="search-result.html">Search Result</a></li>
+                                    <li><a href="search-result.html">نتيجة البحث</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.html">اتصل</a></li>
                         </ul>
                     </div>
                 </nav>
