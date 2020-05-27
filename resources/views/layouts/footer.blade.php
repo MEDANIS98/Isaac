@@ -78,8 +78,9 @@
         </div>
     </section>
     <section class="footer-section-2">
-        <div class="container"> <strong class="copyright">&نسخ؛ 2017. جميع الحقوق محفوظة. صلاة من
-                ثيميلوبر</strong>
+        <div class="container">
+            <strong class="copyright">جميع الحقوق محفوظة {{ date('Y') }}
+            </strong>
             <div class="footer-social">
                 <ul>
                     <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
