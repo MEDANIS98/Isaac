@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <meta lang="{{ app()->getLocale() }}">
     <meta charset="utf-8">
     <title>@yield('title') | {{ config('app.name') }}</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
