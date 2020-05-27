@@ -97,10 +97,10 @@
     </div>
     <!--Search Bar-->
     <div class="overlay overlay-contentscale">
-        <button type="button" class="overlay-close">Close</button>
+        <button type="button" class="overlay-close">@lang('Close')</button>
         <div class="search-inner">
             <form method="get">
-                <input type="text" placeholder="Search....." required>
+                <input type="text" placeholder="@lang('Search...')" required>
                 <button class="submit"><i class="fa fa-search"></i></button>
             </form>
         </div>
