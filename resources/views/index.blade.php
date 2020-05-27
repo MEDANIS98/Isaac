@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('banner')
+@include('partials.banner')
+@stop
+
 @section('content')
 <!--History Section-->
 <section class="history-section">

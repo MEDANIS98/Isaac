@@ -23,9 +23,8 @@
     <div id="wrapper">
         @include('layouts.header')
 
-        @include('partials.banner')
-
-        <!--Mian Content-->
+        @yield('banner')
+        <!--Main Content-->
         <div id="main">
             @yield('content')
         </div>
