@@ -4,9 +4,8 @@
             <div class="col-sm-12">
                 <div class="news-ticker">
                     <div class="news-ticker__title utility__font-smaller">
-                        الخميس 05 / شوّال / 1441
-                        -
-                        28 / مايو 2020 </div>
+                        {{ $today }}
+                    </div>
                     <div class="news-ticker__header">
                     </div>
 
