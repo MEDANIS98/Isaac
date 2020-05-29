@@ -1,94 +1,28 @@
-<!--Footer-->
-<footer id="footer">
-    <section class="footer-section-1">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-4">
-                    <div class="footer-box"> <a href="/" class="footer-logo"><img src="images/logo.png" alt="logo"></a>
-                        <p>هذا هو الإصدار فوتوشوب أبجد هوز. بروين غرافيدا نيبه فيل فيليت أوكتور أليكيت. Aenean
-                            سوليسيتودين، لوريم كويس بيبندوم أوكتور،
-                        </p>
-                        <address>
-                            <ul>
-                                <li><i class="fa fa-map-o" aria-hidden="true"></i>209، البناية، -، أفينو-02،
-                                    الولايات المتحدة</li>
-                                <li><i class="fa fa-paper-plane" aria-hidden="true"></i><a
-                                        href="mailto:">info@salat.com</a></li>
-                                <li><i class="fa fa-volume-control-phone" aria-hidden="true"></i>+ 1 315 - 000 -
-                                    6565</li>
-                            </ul>
-                        </address>
-                    </div>
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a href="index.html">
+                    <img src="img/site-logo-big-white.png" alt="موقع فضيلة الشيخ خالد بن عثمان السبت"
+                        class="logo-footer-img">
+                </a>
+                <div class="d-flex justify-content-center align-items-center utility__margin__v--1">
                 </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="footer-box">
-                        <h3>أحدث الأخبار</h3>
-                        <div class="latest-news-widget">
-                            <ul>
-                                <li>
-                                    <div class="thumb"><a href="#"><img src="images/latest-img-1.jpg" alt="latest"></a>
-                                    </div>
-                                    <div class="text-col">
-                                        <h5><a href="#">المركز الإسلامي الشباب
-                                                مشاركة</a></h5>
-                                        <span><i class="fa fa-calendar" aria-hidden="true"></i>22 أغسطس،
-                                            2018</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="thumb"><a href="#"><img src="images/latest-img-2.jpg" alt="latest"></a>
-                                    </div>
-                                    <div class="text-col">
-                                        <h5><a href="#">المركز الإسلامي الشباب
-                                                مشاركة</a></h5>
-                                        <span><i class="fa fa-calendar" aria-hidden="true"></i>22 أغسطس،
-                                            2018</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="thumb"><a href="#"><img src="images/latest-img-1.jpg" alt="latest"></a>
-                                    </div>
-                                    <div class="text-col">
-                                        <h5><a href="#">المركز الإسلامي الشباب
-                                                مشاركة</a></h5>
-                                        <span><i class="fa fa-calendar" aria-hidden="true"></i>22 أغسطس،
-                                            2018</span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                <div class="download-app">
+                    <a href="https://play.google.com/store/apps/details?id=com.arabic.alsabet" class="ml-3 hvr-shrink"
+                        target="_blank">
+                        <img src="img/android-store.png" alt="">
+                    </a>
+                    <a href="https://itunes.apple.com/us/app/الشيخ-خالد-بن-عثمان-السبت/id529734946?ls=1&amp;mt=8"
+                        class="mr-3 hvr-shrink" target="_blank">
+                        <img src="img/apple-store.png" alt="">
+                    </a>
                 </div>
-                <div class="col-md-4 col-sm-4">
-                    <div class="footer-box">
-                        <h3>النشرة الإخبارية</h3>
-                        <p>لوريم إيبسوم دولور سيت أميت، تيتور
-                            أديبيسشينغ إيليت. أليكام فيهيكوليس موليس أورنا
-                            فيل ديغنيسيم.</p>
-                        <form action="#">
-                            <input type="text" placeholder="اسمك" required>
-                            <div class="input-box">
-                                <input type="text" placeholder="بريدك الإلكتروني هنا" required>
-                                <button type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
+                <hr class="my-4 slim-gray">
+                جميع الحقوق محفوظة
+                - الخميس 05 / شوّال / 1441
+                هـ / 2018 مـ &copy;
             </div>
         </div>
-    </section>
-    <section class="footer-section-2">
-        <div class="container">
-            <strong class="copyright">جميع الحقوق محفوظة {{ date('Y') }}
-            </strong>
-            <div class="footer-social">
-                <ul>
-                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </section>
+    </div>
 </footer>
-<!--Footer-->
