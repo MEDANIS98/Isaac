@@ -1,0 +1,17 @@
+{
+  "name": "موقع الشيخ أ. د. خالد بن عثمان السبت",
+  "short_name": "الشيخ أ. د. خالد السبت",
+  "lang": "ar-SA",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3F3630",
+  "gcm_sender_id": "103953800507",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.arabic.alsabet",
+      "url": "https://play.google.com/store/apps/details?id=com.arabic.alsabet"
+    }
+  ],
+  "prefer_related_applications": true
+}
