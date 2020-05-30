@@ -3,19 +3,32 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="news-ticker">
-                    <div class="news-ticker__title utility__font-smaller">
+                    <div class="news-ticker__title">
                         {{ $today }}
                     </div>
+                    <div class="news-ticker__header"></div>
+                    {{-- <div class="news-ticker__header">
+                    </div>
                     <div class="news-ticker__header">
+                    </div> --}}
+                    <div class="news-ticker__title__footer">
+                        <a href="#">
+                            <i class="fa fa-telegram" aria-hidden="true"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                        </a>
                     </div>
-
-                    <div class="news-ticker__footer">
-                        <span>
-                            <a href="contact.html">
-                                <i class="fa fa-envelope-o"></i> اتصل بنا
-                            </a>
-                        </span>
-                    </div>
+                    <div class="news-ticker__footer"></div>
                 </div>
             </div>
         </div>
