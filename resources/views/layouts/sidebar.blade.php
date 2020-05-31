@@ -2,71 +2,49 @@
     <div class="sidebar">
         <div class="sidebar--box sidebar--padding">
             <h3 class="utility__text-center heading__title heading__title--no-border">
-                <a href="schedule.html">جدول الدروس</a>
+                @lang('Table of contents')
             </h3>
         </div>
         <div class="sidebar--box sidebar--box--primary-light sidebar--padding">
-            <h2 class="utility__text-center heading__title heading__title--no-border">التصنيفات</h2>
+            <h2 class="utility__text-center heading__title heading__title--no-border">
+                @lang('Classifications')
+            </h2>
             <ul class="card__list">
                 <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/1.html">
+                    <a href="/categories/creed">
                         <i class="fa fa-caret-left icon"></i>
-                        الفضائل
+                        @lang('Creed')
                     </a>
                 </li>
                 <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/2.html">
+                    <a href="/categories/quran">
                         <i class="fa fa-caret-left icon"></i>
-                        منوع
+                        @lang('The Qur’an and its sciences')
+                    </a>
+                </li>
+                <li class="card__list__item card__list__item--no-border">
+                    <a href="/categories/hadith">
+                        <i class="fa fa-caret-left icon"></i>
+                        @lang('Hadith and its Sciences')
                     </a>
                 </li>
 
                 <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/3.html">
+                    <a href="/categories/jurisprudence">
                         <i class="fa fa-caret-left icon"></i>
-                        الرقائق
+                        @lang('Jurisprudence')
                     </a>
                 </li>
                 <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/4.html">
+                    <a href="/categories/etiquette">
                         <i class="fa fa-caret-left icon"></i>
-                        السلوك
+                        @lang('Islamic etiquette')
                     </a>
                 </li>
                 <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/5.html">
+                    <a href="/categories/prophet">
                         <i class="fa fa-caret-left icon"></i>
-                        الدعوة
-                    </a>
-                </li>
-                <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/6.html">
-                        <i class="fa fa-caret-left icon"></i>
-                        التاريخ
-                    </a>
-                </li>
-                <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/7.html">
-                        <i class="fa fa-caret-left icon"></i>
-                        الفقه وأصوله
-                    </a>
-                </li>
-                <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/8.html">
-                        <i class="fa fa-caret-left icon"></i>
-                        الحديث وعلومه
-                    </a>
-                </li>
-                <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/9.html">
-                        <i class="fa fa-caret-left icon"></i>
-                        القرآن الكريم وعلومه
-                    </a>
-                </li>
-                <li class="card__list__item card__list__item--no-border">
-                    <a href="categories/10.html">
-                        <i class="fa fa-caret-left icon"></i>
-                        العقيدة
+                        @lang('Biography of the Prophet')
                     </a>
                 </li>
             </ul>
