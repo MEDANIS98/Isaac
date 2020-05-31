@@ -11,28 +11,39 @@
                     </button>
                     <ul class="drop-down__content">
                         <li>
-                            <a href="#tafseer" data-selected="">التفسير والتدبر</a>
+                            <a href="#interpretation" data-selected="">
+                                @lang('Interpretation')
+                            </a>
                         </li>
                         <li>
-                            <a href="#books_explanation" data-selected="">شروح الكتب</a>
+                            <a href="#explanations" data-selected="">
+                                @lang('Explanations')
+                            </a>
                         </li>
                         <li>
-                            <a href="#scientific_series" data-selected="">سلاسل علمية</a>
+                            <a href="#lectures" data-selected="">
+                                @lang('Lectures')
+                            </a>
                         </li>
                         <li>
-                            <a href="#lecture" data-selected="">محاضرات</a>
+                            <a href="#" data-selected="">
+                                @lang('Featured Clips')
+                            </a>
                         </li>
                         <li>
-                            <a href="#general_word" data-selected="">كلمات عامة</a>
+                            <a href="#library" data-selected="">
+                                @lang('Library')
+                            </a>
                         </li>
                         <li>
-                            <a href="#special" data-selected="">مقاطع مميزة</a>
+                            <a href="#fatawa" data-selected="">
+                                @lang('Fatawa')
+                            </a>
                         </li>
                         <li>
-                            <a href="#book" data-selected="">كتب</a>
-                        </li>
-                        <li>
-                            <a href="#audio_tafseer" data-selected="">التفسير الصوتي</a>
+                            <a href="#contact" data-selected="">
+                                @lang('Contact')
+                            </a>
                         </li>
                     </ul>
                 </div>
