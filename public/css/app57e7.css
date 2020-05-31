@@ -14746,6 +14746,21 @@ body.swal2-iosfix {
     z-index: 2;
 }
 
+.news-ticker__title__center {
+    position: absolute;
+    top: 0;
+    right: 45.3%;
+    color: #fff;
+    z-index: 2;
+    white-space: nowrap;
+}
+
+.lang {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 .news-ticker__title__footer {
     color: #fff;
     padding-left: 10px;
@@ -14791,6 +14806,19 @@ body.swal2-iosfix {
     padding-right: 70px;
     position: absolute;
     right: 0;
+    width: 0;
+    z-index: 1
+}
+
+.news-ticker__center {
+    border-bottom: 25px solid #483e36;
+    color: #fff;
+    display: block;
+    height: 0;
+    padding-right: 50px;
+    padding-left: 50px;
+    position: absolute;
+    right: 45%;
     width: 0;
     z-index: 1
 }

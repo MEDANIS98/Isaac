@@ -7,10 +7,12 @@
                         {{ $today }}
                     </div>
                     <div class="news-ticker__header"></div>
-                    {{-- <div class="news-ticker__header">
+                    <div class="news-ticker__title__center">
+                        <a href="#" class="lang">AR</a>
+                        <a href="#" class="lang">FR</a>
+                        <a href="#" class="lang">EN</a>
                     </div>
-                    <div class="news-ticker__header">
-                    </div> --}}
+                    <div class="news-ticker__center"></div>
                     <div class="news-ticker__title__footer">
                         <a href="#">
                             <i class="fa fa-telegram" aria-hidden="true"></i>
