@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row utility__flex-centered">
                 <div class="col-sm-4">
-                    <a href="index.html">
+                    <a href="/">
                         <img src="img/site-logo.png" alt="موقع فضيلة الشيخ خالد بن عثمان السبت"
                             class="logo-img logo-img-hidden-when-fixed">
                         <img src="img/site-logo-sm.png" alt="موقع فضيلة الشيخ خالد بن عثمان السبت"

@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <a href="index.html">
+                <a href="/">
                     <img src="img/site-logo-big-white.png" alt="موقع فضيلة الشيخ خالد بن عثمان السبت"
                         class="logo-footer-img">
                 </a>

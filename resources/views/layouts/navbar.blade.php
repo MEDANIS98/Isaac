@@ -3,7 +3,7 @@
         <a href="#menu" class="menu-toggle"><span></span></a>
         <a href="#search-box" class="search-toggle" data-toggle=".menu-container__search-box"><i
                 class="fa fa-search"></i></a>
-        <a href="index.html" class="menu-logo d-flex d-lg-none">
+        <a href="/" class="menu-logo d-flex d-lg-none">
             <img src="img/site-logo-white.png" alt="موقع الشيخ خالد السبت">
         </a>
         <ul>

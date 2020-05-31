@@ -18,7 +18,7 @@
     <meta name="description" content="الموقع الرسمي لفضيلة الشيخ أ. د. عمر حمرون">
     <meta name="keywords"
         content="تفسير, تفسير صوتي, كتب, سلاسل علمية, محاضرات, محاضرة, قرآن, آية, آيات, قرآن كريم, إسلام">
-    <link rel="canonical" href="index.html" />
+    <link rel="canonical" href="/" />
     <meta property="og:title" content="الموقع الرسمي للشيخ أ. د. عمر حمرون" />
     <meta property="og:description" content="الموقع الرسمي لفضيلة الشيخ أ. د. عمر حمرون" />
     <meta property="og:url" content="index.html" />
