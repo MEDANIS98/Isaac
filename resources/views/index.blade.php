@@ -7,7 +7,7 @@
 @stop
 
 @section('content')
-<section class="section">
+{{-- <section class="section">
     <div class="row">
         <div class="col-lg-6 d-flex flex-column mb-4 mb-lg-0">
             <div class="heading">
@@ -369,5 +369,5 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 @stop
