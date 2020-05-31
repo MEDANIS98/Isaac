@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'الموقع الرسمي للشيخ عمر حمرون')
+@section('title', __(config('app.name')))
 
 @section('slider')
 @include('partials.slider')

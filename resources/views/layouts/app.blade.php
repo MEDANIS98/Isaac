@@ -7,7 +7,7 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="application-name" content="{{ config('app.name') }}">
-    <meta name="apple-mobile-web-app-title" content="{{ config('app.name') }}">
+    <meta name="apple-mobile-web-app-title" content="@lang(config('app.name'))">
     <meta name="theme-color" content="#3F3630">
     <meta name="msapplication-navbutton-color" content="#3F3630">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -15,12 +15,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title')</title>
-    <meta name="description" content="الموقع الرسمي لفضيلة الشيخ أ. د. عمر حمرون">
-    <meta name="keywords"
-        content="تفسير, تفسير صوتي, كتب, سلاسل علمية, محاضرات, محاضرة, قرآن, آية, آيات, قرآن كريم, إسلام">
+    <meta name="description" content="@lang(config('app.name'))">
+    <meta name="keywords" content="@lang('keywords')">
     <link rel="canonical" href="/" />
-    <meta property="og:title" content="الموقع الرسمي للشيخ أ. د. عمر حمرون" />
-    <meta property="og:description" content="الموقع الرسمي لفضيلة الشيخ أ. د. عمر حمرون" />
+    <meta property="og:title" content="@lang(config('app.name'))" />
+    <meta property="og:description" content="@lang(config('app.name'))" />
     <meta property="og:url" content="index.html" />
     <meta property="og:type" content="articles" />
     <meta property="og:image" content="img/social-cover.jpg" />
