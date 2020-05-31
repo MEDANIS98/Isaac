@@ -12,8 +12,9 @@
                     </a>
                 </div>
                 @include('partials.search')
+                {{-- Authentication --}}
                 <div class="col-sm utility__text-left">
-                    <button type="button"
+                    {{-- <button type="button"
                         class="btn btn--light btn--with-icon btn--outlined btn--outlined--light drop-down__button utility__display-inline-block "
                         data-intro="يمكنك تسجيل الدخول من هنا للإستفادة من ميزات الموقع مثل قائمة المفضلة و قائمة المدارسة."
                         data-step="2" data-position="right" style="padding: 9px 8px;">
@@ -23,7 +24,7 @@
                     <ul class="drop-down__content utility__text-right" style="top: 38px;left: 15px;">
                         <li><a href="profile/login.html">دخول</a></li>
                         <li><a href="profile/register.html">تسجيل</a></li>
-                    </ul>
+                    </ul> --}}
                 </div>
             </div>
         </div>
