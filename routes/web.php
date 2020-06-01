@@ -17,3 +17,4 @@ Route::view('/', 'index');
 Route::view('/interpretations', 'interpretations');
 Route::view('/lectures', 'lectures');
 Route::view('/explanations', 'explanations');
+Route::view('/audio', 'audio');
