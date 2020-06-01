@@ -3,7 +3,7 @@
 @section('title', __(config('app.name')))
 
 @section('slider')
-@include('partials.slider')
+@include('partials.slider', ['slides' => $slides])
 @stop
 
 @section('content')

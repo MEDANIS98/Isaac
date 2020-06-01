@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/', 'PagesController@index');
 Route::view('/', 'index');
 Route::view('/interpretations', 'interpretations');
 Route::view('/lectures', 'lectures');
