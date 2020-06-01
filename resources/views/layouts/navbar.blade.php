@@ -12,7 +12,7 @@
                 </a>
             </li>
             <li>
-                <a href="/interpretation">
+                <a href="/interpretations">
                     <i class="icon icon-tafseer"></i> @lang('Interpretation')
                 </a>
             </li>
