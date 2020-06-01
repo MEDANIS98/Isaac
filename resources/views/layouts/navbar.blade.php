@@ -23,7 +23,7 @@
             </li>
             <li>
                 <a href="/lectures">
-                    <i class="icon icon-lecture"></i> @lang('Lectures')
+                    <i class="icon icon-lecture"></i> @lang('Lectures and Sermons')
                 </a>
             </li>
             <li>

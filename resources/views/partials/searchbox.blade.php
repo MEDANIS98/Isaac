@@ -24,7 +24,7 @@
                     </li>
                     <li>
                         <a href="#lectures" data-selected="">
-                            @lang('Lectures')
+                            @lang('Lectures and Sermons')
                         </a>
                     </li>
                     <li>
