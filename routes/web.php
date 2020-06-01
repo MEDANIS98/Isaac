@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'index');
 Route::view('/interpretations', 'interpretations');
+Route::view('/explanations', 'explanations');
