@@ -1,7 +1,7 @@
 {
     "Interpretation": "ترجمة الشيخ",
     "Explanations": "الشروح العلمية",
-    "Lectures": "المحاضرات الخطب",
+    "Lectures and Sermons": "المحاضرات الخطب",
     "Featured Clips": "مقاطع مختارة",
     "Audio Clips": "المقاطع الصوتية",
     "Video Clips": "المقاطع المرئية",
@@ -20,5 +20,6 @@
     "keywords": "تفسير, تفسير صوتي, كتب, سلاسل علمية, محاضرات, محاضرة, قرآن, آية, آيات, قرآن كريم, إسلام",
     "All rights reserved": "جميع الحقوق محفوظة",
     "Interpretation and reflection": "التفسير و التدبر",
+    "Lectures": "المحاضرات ",
     "Scientific annotations": "الشروح العلمية"
 }
