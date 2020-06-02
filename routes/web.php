@@ -20,3 +20,4 @@ Route::view('/explanations', 'explanations');
 Route::view('/video', 'video');
 Route::view('/audio', 'audio');
 Route::view('/library', 'library');
+Route::view('/fatawa', 'fatawa');
