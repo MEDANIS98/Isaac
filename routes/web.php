@@ -13,8 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'index');
+Route::get('/', 'PagesController@index');
 Route::view('/interpretations', 'interpretations');
 Route::view('/lectures', 'lectures');
 Route::view('/explanations', 'explanations');
 Route::view('/video', 'video');
+Route::view('/audio', 'audio');
