@@ -3,6 +3,7 @@
 @section('title', __('explanations'))
 
 @section('content')
+
 <nav aria-label="breadcrumb" role="navigation">
 	<ol class="breadcrumb">
 		<li class="breadcrumb-item"><a href="https://khaledalsabt.com/">الصفحة الرئيسية</a></li>
