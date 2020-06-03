@@ -25,7 +25,7 @@
     <meta property="og:image" content="img/social-cover.jpg" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@drkhaledalsabt" />
-    <link rel="preload" href="css/app57e7.css?id=3ea8d7c3d64f0ccce1c5" as="style" />
+    <link rel="preload" href="/css/app57e7.css?id=3ea8d7c3d64f0ccce1c5" as="style" />
     <link rel="preload" href="https://fonts.gstatic.com/ea/notonaskharabic/v4/NotoNaskhArabic-Regular.woff2" as="font"
         type="font/woff2" crossorigin="anonymous" />
     <link rel="preload" href="https://fonts.gstatic.com/ea/notonaskharabic/v4/NotoNaskhArabic-Bold.woff2" as="font"
@@ -39,7 +39,7 @@
     <link rel="preload"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0"
         as="font" type="font/woff2" crossorigin="anonymous" />
-    <link rel="stylesheet" href="css/app57e7.css?id=3ea8d7c3d64f0ccce1c5">
+    <link rel="stylesheet" href="/css/app57e7.css?id=3ea8d7c3d64f0ccce1c5">
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -66,7 +66,7 @@
     <noscript id="deferred-styles">
         <link rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/fontsa2f1.css?id=0d1bc9f23952186e27b5">
+        <link rel="stylesheet" href="/css/fontsa2f1.css?id=0d1bc9f23952186e27b5">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.0/slick.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.0/slick-theme.min.css">
     </noscript>
