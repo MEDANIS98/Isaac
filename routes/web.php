@@ -15,8 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'PagesController@index');
 Route::view('/interpretations', 'interpretations');
-Route::view('/lectures', 'lectures');
-Route::get('/lectures/{lecture}', fn ($lecture) => view('lectures.lecture'));
+Route::view('/lectures', 'lectures.index');
+Route::get('/lectures/{lectures}', fn ($lecture) => view('lectures.lectures'));
 Route::view('/explanations', 'explanations');
 Route::view('/video', 'video');
 Route::view('/audio', 'audio');
