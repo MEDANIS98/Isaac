@@ -5,7 +5,7 @@
 @section('content')
 <nav aria-label="breadcrumb" role="navigation">
 	<ol class="breadcrumb">
-		<li class="breadcrumb-item"><a href="https://khaledalsabt.com/">الصفحة الرئيسية</a></li>
+		<li class="breadcrumb-item"><a href="/">الصفحة الرئيسية</a></li>
 		<li class="breadcrumb-item"><a href="https://khaledalsabt.com/explanations">شروح الكتب</a></li>
 		<li class="breadcrumb-item"><a
 				href="https://khaledalsabt.com/explanations/book/222/معاني-الاذكار---حصن-المسلم">معاني الأذكار - حصن

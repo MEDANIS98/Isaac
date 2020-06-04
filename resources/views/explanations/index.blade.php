@@ -33,7 +33,7 @@
                   </span>
                 </div>
                 <div class="col">
-                  المشاهدات: 1203070
+                  المشاهدات: 3070
                 </div>
                 <div class="col d-flex align-items-center">
                 </div>
