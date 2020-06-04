@@ -180,48 +180,6 @@
 		</div>
 	</div>
 </div>
-<div class="heading">
-	<h2 class="heading__title">
-		مواد ذات صلة
-	</h2>
-</div>
-<div class="cards cards--space-between cards--small">
-	<div class="card card--cover">
-		<div class="cover" style="background-image: url('https://khaledalsabt.com/img/types/books_explanation.jpg')">
-			<span class="card__gradients"></span>
-		</div>
-		<div class="card__content interpretation">
-			<a href="https://khaledalsabt.com/explanations/980/مسلم-1-الحديث-20-الى-الحديث-25">
-				<p class="card__title card__title--no-border card__title--font-sm">
-					مسلم 1 الحديث 20 إلى الحديث 25
-				</p>
-			</a>
-		</div>
-	</div>
-	<div class="card card--cover">
-		<div class="cover" style="background-image: url('https://khaledalsabt.com/img/types/books_explanation.jpg')">
-			<span class="card__gradients"></span>
-		</div>
-		<div class="card__content interpretation">
-			<a href="https://khaledalsabt.com/explanations/981/مسلم-2-الحديث-26-الى-الحديث-27">
-				<p class="card__title card__title--no-border card__title--font-sm">
-					مسلم 2 الحديث 26 إلى الحديث 27
-				</p>
-			</a>
-		</div>
-	</div>
-	<div class="card card--cover">
-		<div class="cover" style="background-image: url('https://khaledalsabt.com/img/types/books_explanation.jpg')">
-			<span class="card__gradients"></span>
-		</div>
-		<div class="card__content interpretation">
-			<a href="https://khaledalsabt.com/explanations/982/مسلم-3-تكملة-الحديث-27-الى-الحديث-30">
-				<p class="card__title card__title--no-border card__title--font-sm">
-					مسلم 3 تكملة الحديث 27 إلى الحديث 30
-				</p>
-			</a>
-		</div>
-	</div>
-</div>
+@include('partials.related_articles')
 <div class="col-lg-3 d-lg-block d-none"></div>
 @stop
