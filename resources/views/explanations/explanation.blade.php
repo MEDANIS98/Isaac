@@ -181,6 +181,5 @@
 	</div>
 </div>
 @include('partials.related_articles')
-
 <div class="col-lg-3 d-lg-block d-none"></div>
 @stop

@@ -1,5 +1,4 @@
 {{-- Related articles --}}
-
 <div class="heading">
 	<h2 class="heading__title">
 		مواد ذات صلة
@@ -11,10 +10,9 @@
 			<span class="card__gradients"></span>
 		</div>
 		<div class="card__content interpretation">
-			<a
-				href="https://khaledalsabt.com/lectures/7/%D9%88%D9%82%D9%81%D8%A7%D8%AA-%D9%85%D8%B9-%D9%82%D9%88%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D9%88%D9%84%D8%A7-%D8%AA%D9%82%D9%81-%D9%85%D8%A7-%D9%84%D9%8A%D8%B3-%D9%84%D9%83-%D8%A8%D9%87-%D8%B9%D9%84%D9%85">
-				<p class="card__title card__title--no-border card__title--font-sm">
-					وقفات مع قوله تعالى: (ولا تقف ما ليس لك به علم)
+			<a href="https://khaledalsabt.com/lectures/7/
+				<p class=" card__title card__title--no-border card__title--font-sm">
+				وقفات مع قوله تعالى: (ولا تقف ما ليس لك به علم)
 				</p>
 			</a>
 		</div>
