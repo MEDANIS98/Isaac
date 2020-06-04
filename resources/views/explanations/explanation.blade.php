@@ -1,9 +1,8 @@
 @extends('layouts.app')
 
-@section('title', __('explanations'))
+@section('title', __('explanation'))
 
 @section('content')
-
 <nav aria-label="breadcrumb" role="navigation">
 	<ol class="breadcrumb">
 		<li class="breadcrumb-item"><a href="https://khaledalsabt.com/">الصفحة الرئيسية</a></li>
@@ -225,5 +224,4 @@
 </div>
 <div class="col-lg-3 d-lg-block d-none">
 </div>
-
 @stop

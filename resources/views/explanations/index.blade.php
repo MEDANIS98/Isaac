@@ -3,7 +3,6 @@
 @section('title', __('Scientific annotations'))
 
 @section('content')
-
 <nav aria-label="breadcrumb" role="navigation">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/">الصفحة الرئيسية</a></li>
@@ -73,6 +72,5 @@
     </div>
   </div>
 </div>
-<div class="utility__text-center">
-</div>
+<div class="utility__text-center"></div>
 @stop
