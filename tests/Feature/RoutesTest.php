@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Tests\Feature;
 
 use Tests\TestCase;
@@ -24,9 +26,7 @@ class RoutesTest extends TestCase
 
     /**
      * Loop through the list of routes
-     * Assert that ok status is returned
-     *
-     * @return void
+     * Assert that ok status is returned.
      */
     public function testRoutes(): void
     {
