@@ -2,8 +2,6 @@
 
 namespace Tests\Feature;
 
-use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\WithFaker;
 use Tests\TestCase;
 
 class ExplanaionsTest extends TestCase
@@ -19,6 +17,6 @@ class ExplanaionsTest extends TestCase
 
         $response->assertSee('explanations');
 
-        $response->assertStatus(200);
+        $response->assertOk();
     }
 }
