@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', __('explanation'))
+@section('title', __(str_plural('explanation')))
 
 @section('content')
 <nav aria-label="breadcrumb" role="navigation">
@@ -11,7 +11,7 @@
 				href="https://khaledalsabt.com/explanations/book/222/معاني-الاذكار---حصن-المسلم">معاني الأذكار - حصن
 				المسلم</a></li>
 		<li class="breadcrumb-item active" aria-current="page">
-        (77) ألفاظ الحديث: &quot;اللهم اجعل في قلبي نورًا
+			(77) ألفاظ الحديث: &quot;اللهم اجعل في قلبي نورًا
 			...&quot;، والزِّيادات الصَّحيحة على الرِّواية</li>
 	</ol>
 </nav>
