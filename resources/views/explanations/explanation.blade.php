@@ -222,6 +222,5 @@
 		</div>
 	</div>
 </div>
-<div class="col-lg-3 d-lg-block d-none">
-</div>
+<div class="col-lg-3 d-lg-block d-none"></div>
 @stop
