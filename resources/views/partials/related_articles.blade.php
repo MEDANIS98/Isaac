@@ -10,8 +10,8 @@
 			<span class="card__gradients"></span>
 		</div>
 		<div class="card__content interpretation">
-			<a href="https://khaledalsabt.com/lectures/7/
-				<p class=" card__title card__title--no-border card__title--font-sm">
+			<a href="https://khaledalsabt.com/lectures/7/" <p
+				class=" card__title card__title--no-border card__title--font-sm">
 				وقفات مع قوله تعالى: (ولا تقف ما ليس لك به علم)
 				</p>
 			</a>
