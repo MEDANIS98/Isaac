@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Providers;
 
 use GeniusTS\HijriDate\Date;
@@ -18,7 +20,7 @@ class AppServiceProvider extends ServiceProvider
         Date::setTranslation(new Arabic);
         $today = Date::today();
         $date = $today->format('D d / M / Y ');
-        $today = $today->format('D d / M / Y - ') . today()->isoFormat('ll');
+        $today = $today->format('D d / M / Y - ').today()->isoFormat('ll');
         view()->composer('layouts.topbar', fn ($view) => $view->with('today', $today));
         view()->composer('layouts.footer', fn ($view) => $view->with('today', $date));
     }
